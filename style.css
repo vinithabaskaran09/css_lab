@@ -1,0 +1,43 @@
+/* body {
+    font-size:small;
+    margin: 0px
+
+} */
+
+/* .flag{
+    background-color: #FF0000;
+    width: 500px;
+    height: 100px;
+} */
+
+.german_flag {
+    width: 600px;
+    height: 100px;
+    /* margin: 25px 25px; */
+    /* display: inline-block; */
+}
+
+.left_right {
+    margin: 0px 25px;
+}
+
+#red {
+    background-color: red;
+}
+
+#black {
+    background-color: black;
+}
+
+#gold {
+    background-color: gold;
+}
+
+.box {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 50px;
+  }
